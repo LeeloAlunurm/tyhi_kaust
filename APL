@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="Imre Saik" content="piha ja vihertyöt"/>
+<meta name="APL" content="APL Teenused OY"/><!--lihtsustab otsingumootori tood-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>APL Teenused</title>
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+<body>
+<header class="w3-conteiner w3-green w3-center w3-xxlarge" style="font-family:Corsiva">
+ <h1>APL Teenused Oy</h1>
+ 
+<ul class="w3-navbar w3-light-grey w3-xlarge w3-wide w3-padding-large w3-bottombar w3-border-green">
+ <li><a class="w3-green" href="#"><i class="fa fa-home w3-xxxlarge"></i></a></li>
+ <li class="w3-dropdown-hover w3-light-grey">
+  <a href="#">Teenused<i class="fa fa-caret-down w3-padding-14"></i></a>
+   <div class="w3-dropdown-content w3-white w3-card-4 w3-left-align">
+        <a href="#">Kaevetööd</a>
+        <a href="#">Kivitööd</a>
+        <a href="#">Vihmaveesüsteemid</a>
+        <a href="#">Materiali transport</a>
+        <a href="#">Link 5</a>
+      </div>
+	  </li>
+ <li class="w3-dropdown-hover w3-light-grey">
+ <a href="#">Tehtud tööd<i class="fa fa-caret-down w3-padding-14"></i></a>
+   <div class="w3-dropdown-content w3-white w3-card-4 w3-left-align">
+        <a href="#">Kaevetööd</a>
+        <a href="#">Kivitööd</a>
+        <a href="#">Vihmaveesüsteemid</a>
+      </div>
+	  </li>
+ <li><a class="w3-padding-14" href="#">Tehnika</a></li>  
+</ul> 
+
+<div class="w3-container w3-light-grey  w3-border-green">
+  <div class="w3-left w3-rightbar w3-border-green" style="width:25%">w3-left</div>
+  <div class="w3-right w3-leftbar w3-border-green" style="width:75%">w3-right</div>
+</div>
+
+<footer class="w3-container w3-green w3-xxlarge">
+  <h3>pihajavihertyöt.fi</h3>
+</footer>
+
+</body>
+
+
+</html>  
